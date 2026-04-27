@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rifuroo&show_icons=true&theme=merko&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexandra&show_icons=true&theme=merko&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifuroo&theme=merko&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifuroo&layout=compact&theme=merko&hide_border=true" />
